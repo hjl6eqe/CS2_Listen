@@ -1,0 +1,3 @@
+The following link can provide you with advice on how to perform an Augmented Dickey-Fuller Test. The test is useful because it tells you whether your data is stationary or non-stationary. After performing the test, you should probably come to the conclusion that the data is stationary and this will affect your parameters for your model.
+
+Link --> https://www.geeksforgeeks.org/how-to-perform-an-augmented-dickey-fuller-test-in-r/
